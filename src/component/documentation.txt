@@ -1,11 +1,1 @@
---NOTES--
 
-
-
-
---ROADMAP--
-1-- Install Bootstrap 5
-2-- Craete Card
-3-- Make Members Data 
-4-- Create Cards
-5-- Add Event To Show Member By Member
